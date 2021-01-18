@@ -7,10 +7,12 @@ Realice los siguientes ejercicios utilizando HTML y Javascript:
 Una matriz identidad es un tipo de matriz que se usa en Geometría Vectorial y Álgebra Lineal, y
 que tiene como valores, 1 en su diagonal principal y 0 en el resto de sus posiciones. Por ejemplo, la
 siguiente es una matriz identidad de 4x4:
+<br>
                                       1 0 0 0
                                       0 1 0 0
                                       0 0 1 0
                                       0 0 0 1
+<br>
 Implemente una página que cuente con un formulario que permita ingresar un número (N), y que
 al hacer clic en un botón, se imprima en un elemento <DIV> una matriz identidad de NxN. Use una
 tabla para imprimir dicha matriz.
