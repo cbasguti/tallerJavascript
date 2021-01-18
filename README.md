@@ -26,8 +26,7 @@ similar a una conversión de tipo en Java).
 
 Implemente una página con un formulario con dos cajas de texto y cuatro botones (Sumar, Restar,
 Multiplicar y Dividir). Al hacer clic en cualquiera de los botones, que se muestre el resultado de la
-operación respectiva en un párrafo (elemento "<P>").
-
+operación respectiva en un párrafo (elemento "P").
 
 # Colorear dinámicamente
 
