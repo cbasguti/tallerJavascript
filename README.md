@@ -26,18 +26,18 @@ similar a una conversión de tipo en Java).
 
 Implemente una página con un formulario con dos cajas de texto y cuatro botones (Sumar, Restar,
 Multiplicar y Dividir). Al hacer clic en cualquiera de los botones, que se muestre el resultado de la
-operación respectiva en un párrafo (elemento <P>).
+operación respectiva en un párrafo (elemento "<P>").
 
 
 # Colorear dinámicamente
 
 Modifique la página anterior para que, una vez se realice la operación, si el resultado es menor
 que cero, éste se muestre con fuente de color rojo.
-Tips:
+Tips:<br>
 -> En HTML, comúnmente se asignan los colores usando su código hexadecimal (para
 obtener el código hexadecimal del rojo y otros colores, basta con buscar color hex en
-Google).
+Google).<br>
 -> Para asignarle el color a un elemento de HTML basta con usar el siguiente código:
-elemento.style.color = "#hexadecimal";
+elemento.style.color = "#hexadecimal";<br>
 -> Donde elemento es el elemento de Java al que se le desea cambiar el color. Este
-elemento se puede obtener usando getElementById (como al momento de imprimir).
+elemento se puede obtener usando getElementById (como al momento de imprimir).<br>
